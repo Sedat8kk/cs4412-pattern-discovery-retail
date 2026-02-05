@@ -19,6 +19,6 @@ cs4412-pattern-discovery-retail/
 └── proposal.pdf
 
 ## Author
-Sedat  
+Sedat Sekizkardes
 CS 4412 — Data Mining  
 Kennesaw State University
